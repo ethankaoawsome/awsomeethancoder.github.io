@@ -3145,7 +3145,9 @@
 	position: relative;
 	top: -169px;
 }
-.iframe{
-	display:block;
-    margin: 0 auto;
+div.iframe iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
