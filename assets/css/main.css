@@ -3145,6 +3145,9 @@
 	position: relative;
 	top: -169px;
 }
-.iframe{
-float: center;
+iframe{
+	display:block;
+	width: 100px;
+    height: 50px;
+    margin: 0 auto;
 }
