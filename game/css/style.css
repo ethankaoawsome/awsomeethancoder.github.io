@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+  background-image: url('http://wallpaperbeta.com/wallpaper_3840x2160/moon_sea_night_people_surfing_board_waves_ultra_3840x2160_hd-wallpaper-100317.jpg');
+}
+marquee{
+font-size:80px;
+}
+body{
+  width:785px;
+  height:410px;
+}
+
+button {
+    font-size: 35px;
+ font-family:Roboto Slab;
+  background-color:#00007a;
+  border: 5px solid black;
+}
+
+button:hover {
+  background-color: #000066;
+  font-size:38px;
+  border: 6px solid black;
+}
+p{
+  font-size:40px;
+  color:#00007a;
+}
+
+a {
+  color: #00007a;
+  font-size: 40px;
+}
+
+a:hover {
+  color: #000048;
+  font-size: 42px;
+}
+div.p{
+  color:black;
+}
